@@ -4,7 +4,7 @@
 
 export const environment = {
   production: true,
-  api: "https://backendcontrolturnos-production.up.railway.app/",
+  api: "https://backendcontrolturnos-production.up.railway.app",
 };
 
 /*
